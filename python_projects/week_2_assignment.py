@@ -16,3 +16,5 @@ my_list.pop()
 my_list.sort()
 # .index(value) method to find the position of the value()
 my_list.index(30)
+
+print("Final list:", my_list)
